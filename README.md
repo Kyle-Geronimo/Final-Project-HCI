@@ -11,14 +11,10 @@ This is for educational purposes only
 ####  Integrated Development Environment (IDE)
 1. VS Code
 
-### Program Output
-
-![PythonApp](https://github.com/SinMurasaki/Python-Random-Fact-Generator/assets/129580972/f7a8f8cf-ac01-4891-a6c1-987c4150028f)
-
 ### SDG Goals :
 
-This program benefits the SDG goals 4 Quality Education and 14 Life below water.
-
+This program benefits the SDG goals 4 Quality Education.
+![image](https://github.com/SinMurasaki/Python-Random-Fact-Generator/assets/129580972/f7a8f8cf-ac01-4891-a6c1-987c4150028f](https://github.com/Kyle-Geronimo/Final-Project-HCI/blob/main/Screenshot%202025-05-14%20at%2021-05-27%20THE%2017%20GOALS%20Sustainable%20Development.png?raw=true)
 
 
 # *SELF ASSESSMENT*
