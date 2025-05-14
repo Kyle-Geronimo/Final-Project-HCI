@@ -14,6 +14,7 @@ This is for educational purposes only
 ### SDG Goals :
 
 This program benefits the SDG goals 4 Quality Education.
+
 ![image](https://github.com/SinMurasaki/Python-Random-Fact-Generator/assets/129580972/53602f0b-e89a-4658-bbef-2c1402f55e5e)
 
 
