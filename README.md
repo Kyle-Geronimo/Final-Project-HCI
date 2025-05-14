@@ -19,7 +19,7 @@ This program benefits the SDG goals 4 Quality Education.
 
 
 # *SELF ASSESSMENT*
-Based on the given rubric for grading, I assesed the system and it resulted to this:
+I assesed the system and it resulted to this:
 | Metric  |  4 | 3  | 2  |  1 |
 |---|---|---|---|---|
 | Code Reusability  |   |   | ✔ |   |
